@@ -25,3 +25,25 @@
 // STEP 7: Change at least ONE of your variables (for example, favoriteHobby)
 //         to a new value and then log the entire profile card again
 //         to show the updated information.
+
+let fullName = "Tien Tran";
+let profileAge = 31;    
+let country = "Germany";
+let favoriteHobby = "Gaming";
+let isStudent = true;
+
+console.log("Name: " + fullName);
+console.log("Age: " + profileAge);
+console.log("Country: " + country);
+console.log("Hobby: " + favoriteHobby);
+console.log("Is student? " + isStudent);
+
+console.log("------------------------");
+
+favoriteHobby = "Volleyball"
+
+console.log("Name: " + fullName);
+console.log("Age: " + profileAge);
+console.log("Country: " + country);
+console.log("Hobby: " + favoriteHobby);
+console.log("Is student? " + isStudent);
